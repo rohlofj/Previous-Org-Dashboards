@@ -1,1 +1,2 @@
 # Previous-Org-Dashboards
+This repository contains snapshots of dashboards I created for previous organizations at various points in time. These snapshots are provided as reference examples and do not represent the final products, as the ownership of the final dashboards belongs to the respective organizations. You can find more details about each snapshot in the accompanying previous_org_dashboards.md markdown file.
